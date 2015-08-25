@@ -286,7 +286,6 @@ function onMidi1(status, data1, data2)
          }
          else
          {
-           trackBank.scrollToChannel(slot);
            track.getClipLauncher().record(0);
          }
       }
