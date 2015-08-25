@@ -10,7 +10,7 @@ You can use this script for the launchkey 49 or 61 of Novation in Bitwig.
 
 # How to use ?
 - The difference with the original script of Bitwig is that the button under Master Slider of the Launchkey switches the pads in launcher mode
-- You are in launcher mode as long as se light of this button is on.
+- You are in launcher mode as long as the light of this button is on.
 
 In launcher mode :
 - The pads above launch the clips for the selected scene or stop it
