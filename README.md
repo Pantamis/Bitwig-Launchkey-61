@@ -1,2 +1,2 @@
 # Bitwig-Launchkey-61
-Controller Script forthe Novation Launchkey 61 in Bitwig Studio
+Controller Script for the Novation Launchkey 61 in Bitwig Studio
