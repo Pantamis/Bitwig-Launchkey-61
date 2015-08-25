@@ -18,4 +18,5 @@ In launcher mode :
 - The track arrows allow you to switch to the next or previous 8 tracks page
 - The fast forward and rewind buttons allow you to switch to the next or previous scene with respect to the arrow you can see above the buttons
 - The two round buttons allow you to launch a scene and stop it (launch up, stop down)
+Don't forget to switch the transport to play if you need to record in a clip
 
